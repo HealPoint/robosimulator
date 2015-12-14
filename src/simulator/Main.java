@@ -15,6 +15,6 @@ public class Main {
         Logger.readAll();
 
         // Create the interface
-        UserInterface ui = new UserInterface();
+        new UserInterface();
     }
 }
